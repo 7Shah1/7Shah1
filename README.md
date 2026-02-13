@@ -5,7 +5,7 @@ I am a **Bachelor of Software Engineering (Honours)** student at **UniKL MIIT**,
 
 ---
 
-## 🚀 Featured Project: "Code-Quest" 2D Platformer
+## 🚀 Featured Project: "Ember Beyond The Ashes" 2D Platformer
 **Final Year Project (Degree)**
 * Developed an educational 2D platformer in **Unity** designed to teach students basic Computer Science concepts.
 * Integrated **Firebase** for real-time data collection and progress tracking.
