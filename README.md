@@ -40,4 +40,4 @@ I am a **Bachelor of Software Engineering (Honours)** student at **UniKL MIIT**,
 ---
 
 ## 📫 Connect with me:
-[LinkedIn](www.linkedin.com/in/muhammad-shah-hakimi-hakimi-760980252) | [Email](shahshaqiq@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muhammad-shah-hakimi)| [![Email Me](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail)](mailto:shahshaqiq@gmail.com)
