@@ -50,7 +50,7 @@ Specialties: Line-following robots, IoT Face Recognition with Emotion Rating.
 - 🎓 **Degree:** B.S. Software Engineering (Honours) @ UniKL MIIT.
 - 🎓 **Diploma:** Diploma in Electronic (Embedded Systems).
 - 🌱 Currently learning: Advanced Machine Learning and Flutter animations.
-- 💬 Ask me about: Why I love Linux and how to build robots that distribute papers!
+- 💬 Ask me about: Why I love Linux and how to build local ai!
 
 ---
 
