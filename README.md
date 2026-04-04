@@ -1,4 +1,4 @@
-# Hi there, I'm Shah Hakimi 👋
+# Hi there, I'm Shah 👋
 
 ### Software Engineering Fresh Grad | Embedded Systems Enthusiast 
 I am a **Bachelor of Software Engineering (Honours)** student at **UniKL MIIT**, currently on an **Internship**. With a background in **Electronic Engineering (Diploma)**, I bridge the gap between hardware and software.
