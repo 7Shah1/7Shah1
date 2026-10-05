@@ -1,4 +1,4 @@
-# Hi there, I'm Shah 👋
+# Hi there, I'm Shah working as mid lvl SE👋
 
 ### Software Engineering Fresh Grad | Embedded Systems Enthusiast 
 I am a **Bachelor of Software Engineering (Honours)** student at **UniKL MIIT**, currently on an **Working**. With a background in **Electronic Engineering (Diploma)**, I bridge the gap between hardware and software.
@@ -55,4 +55,4 @@ Specialties: Line-following robots, IoT Face Recognition with Emotion Rating.
 ---
 
 ## 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muhammad-shah-hakimi)| [![Email Me](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail)](mailto:shahshaqiq@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muhammad-shah-hakimi) [![Email Me](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail)](mailto:shahshaqiq@gmail.com)
